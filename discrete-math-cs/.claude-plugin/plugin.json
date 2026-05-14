@@ -1,0 +1,8 @@
+{
+  "name": "discrete-math-cs",
+  "description": "Discrete mathematics for computer science: proofs, logic, induction, number theory, RSA, graph theory, counting, and probability.",
+  "version": "1.0.0",
+  "author": { "name": "rutvi" },
+  "license": "MIT",
+  "skills": "./"
+}

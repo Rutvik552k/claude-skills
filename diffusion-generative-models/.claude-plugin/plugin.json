@@ -1,0 +1,6 @@
+{
+  "name": "diffusion-generative-models",
+  "description": "Comprehensive skill covering diffusion models, text-to-image generation (DALL-E 2, Imagen, Stable Diffusion), and text-to-video generation (Make-A-Video, Imagen Video, Phenaki). Includes DDPM/score-SDE theory, efficient sampling methods, classifier-free guidance, and architecture comparisons for modern generative AI systems.",
+  "author": "rutvi",
+  "version": "1.0.0"
+}

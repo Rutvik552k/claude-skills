@@ -1,0 +1,17 @@
+{
+  "name": "deep-learning-mathematics",
+  "displayName": "Deep Learning Mathematics",
+  "tags": [
+    "deep-learning",
+    "mathematics",
+    "linear-algebra",
+    "optimization",
+    "neural-networks",
+    "svd",
+    "pca",
+    "backpropagation",
+    "gradient-descent",
+    "approximation-theory",
+    "generalization"
+  ]
+}

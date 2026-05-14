@@ -1,0 +1,11 @@
+{
+  "name": "discrete-math-cs",
+  "displayName": "Discrete Math for CS",
+  "version": "1.0.0",
+  "description": "Discrete mathematics foundations for CS: proof techniques, induction, number theory, RSA cryptography, graph theory, combinatorics, and probability.",
+  "author": "rutvi",
+  "license": "MIT",
+  "platforms": ["claude-code"],
+  "category": "knowledge",
+  "tags": ["discrete-math", "proofs", "induction", "number-theory", "rsa", "graph-theory", "combinatorics", "probability", "logic", "cryptography"]
+}

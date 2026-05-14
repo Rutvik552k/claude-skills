@@ -1,0 +1,11 @@
+{
+  "name": "offensive-security",
+  "displayName": "Offensive Security",
+  "version": "1.0.0",
+  "description": "Security exploitation concepts for authorized testing: buffer overflows, format strings, shellcode, network attacks, cryptology, and modern countermeasures.",
+  "author": "rutvi",
+  "license": "MIT",
+  "platforms": ["claude-code"],
+  "category": "knowledge",
+  "tags": ["security", "exploitation", "buffer-overflow", "shellcode", "networking", "cryptography", "ctf", "pentesting", "reverse-engineering", "defensive-security"]
+}

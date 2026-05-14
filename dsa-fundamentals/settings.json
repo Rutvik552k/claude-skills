@@ -1,0 +1,11 @@
+{
+  "name": "dsa-fundamentals",
+  "displayName": "DSA Fundamentals",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms knowledge: linked lists, BST, AVL trees, heaps, queues, sorting algorithms, and numeric methods with Big-O analysis.",
+  "author": "rutvi",
+  "license": "MIT",
+  "platforms": ["claude-code"],
+  "category": "knowledge",
+  "tags": ["data-structures", "algorithms", "sorting", "trees", "graphs", "complexity", "big-o", "linked-list", "heap", "binary-search-tree", "avl", "queue", "dsa"]
+}

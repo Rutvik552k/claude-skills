@@ -1,0 +1,8 @@
+{
+  "name": "offensive-security",
+  "description": "Exploitation techniques for security research: buffer overflows, format strings, shellcode, network attacks, cryptology, and countermeasures. For authorized testing and education.",
+  "version": "1.0.0",
+  "author": { "name": "rutvi" },
+  "license": "MIT",
+  "skills": "./"
+}

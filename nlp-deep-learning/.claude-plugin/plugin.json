@@ -1,0 +1,8 @@
+{
+  "name": "nlp-deep-learning",
+  "description": "NLP with deep learning: text preprocessing, embeddings, CNNs/RNNs for text, attention, seq2seq, and text generation with PyTorch patterns.",
+  "version": "1.0.0",
+  "author": { "name": "rutvi" },
+  "license": "MIT",
+  "skills": "./"
+}

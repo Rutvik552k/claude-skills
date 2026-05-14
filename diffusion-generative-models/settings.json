@@ -1,0 +1,17 @@
+{
+  "name": "diffusion-generative-models",
+  "displayName": "Diffusion & Generative Models",
+  "tags": [
+    "diffusion-models",
+    "ddpm",
+    "score-sde",
+    "text-to-image",
+    "text-to-video",
+    "dall-e",
+    "imagen",
+    "stable-diffusion",
+    "make-a-video",
+    "generative-ai",
+    "sampling"
+  ]
+}

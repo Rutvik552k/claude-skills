@@ -1,0 +1,6 @@
+{
+  "name": "container-orchestration",
+  "description": "Podman and Kubernetes container orchestration skill — covers daemonless container management with Podman, rootless containers, systemd integration, Kubernetes deployments, services, networking, and the dev-to-prod bridge from local containers to production clusters.",
+  "author": "rutvi",
+  "version": "1.0.0"
+}

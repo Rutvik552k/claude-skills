@@ -1,0 +1,6 @@
+{
+  "name": "deep-learning-mathematics",
+  "description": "Mathematical foundations of deep learning and linear algebra for machine learning. Covers neural network theory, optimization convergence, approximation theorems, generalization bounds, SVD/PCA, spectral methods, and PDE-based deep learning — grounded in rigorous proofs from Jentzen et al. (2025) and Gallier & Quaintance (2025).",
+  "author": "rutvi",
+  "version": "1.0.0"
+}

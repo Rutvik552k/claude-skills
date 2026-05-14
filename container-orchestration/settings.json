@@ -1,0 +1,17 @@
+{
+  "name": "container-orchestration",
+  "displayName": "Container Orchestration",
+  "tags": [
+    "podman",
+    "kubernetes",
+    "docker",
+    "containers",
+    "k8s",
+    "pods",
+    "deployments",
+    "services",
+    "rootless",
+    "systemd",
+    "devops"
+  ]
+}

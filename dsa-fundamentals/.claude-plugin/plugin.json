@@ -1,0 +1,10 @@
+{
+  "name": "dsa-fundamentals",
+  "description": "Data structures and algorithms: linked lists, trees, heaps, sorting, and numeric algorithms with complexity analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rutvi"
+  },
+  "license": "MIT",
+  "skills": "./"
+}

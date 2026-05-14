@@ -1,0 +1,11 @@
+{
+  "name": "nlp-deep-learning",
+  "displayName": "NLP Deep Learning",
+  "version": "1.0.0",
+  "description": "Natural language processing with deep learning: tokenization, embeddings (Word2Vec, GloVe), CNNs/RNNs/LSTMs for text, attention mechanisms, seq2seq, and text generation with PyTorch.",
+  "author": "rutvi",
+  "license": "MIT",
+  "platforms": ["claude-code"],
+  "category": "knowledge",
+  "tags": ["nlp", "deep-learning", "pytorch", "embeddings", "word2vec", "lstm", "rnn", "attention", "seq2seq", "text-generation", "sentiment-analysis", "ner", "transformers"]
+}

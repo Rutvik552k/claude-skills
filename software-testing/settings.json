@@ -1,0 +1,11 @@
+{
+  "name": "software-testing",
+  "displayName": "Software Testing",
+  "version": "1.0.0",
+  "description": "Systematic testing methodology covering boundary value, equivalence class, decision table, path testing, data flow, integration, regression, and model-based testing.",
+  "author": "rutvi",
+  "license": "MIT",
+  "platforms": ["claude-code"],
+  "category": "knowledge",
+  "tags": ["testing", "qa", "boundary-value", "equivalence-class", "path-testing", "coverage", "integration-testing", "regression", "model-based-testing", "decision-table"]
+}

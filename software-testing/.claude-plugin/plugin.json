@@ -1,0 +1,8 @@
+{
+  "name": "software-testing",
+  "description": "Systematic software testing methodology: boundary value, equivalence class, decision table, path, data flow, integration, system, regression, and model-based testing.",
+  "version": "1.0.0",
+  "author": { "name": "rutvi" },
+  "license": "MIT",
+  "skills": "./"
+}
